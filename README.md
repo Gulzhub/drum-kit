@@ -1,6 +1,6 @@
 # Drum kit using Javascript
 
-This is one of the projects from [Wes Bos](https://github.com/wesbos) that I emulated.
+This is one of the projects from [Wes Bos](https://github.com/wesbos) that I emulated and is currently only for desktop users.
 
 
 ### Links
